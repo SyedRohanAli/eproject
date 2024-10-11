@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    
+}
+.logo{
+    display: flex;
+}
+.logo img{
+width: 100px;
+    height: 100px;
+
+}
+.menu{
+    display: flex;
+    margin-left:550px;
+    margin-top: 38px;
+}
+.menu li{
+    margin-left: 50px;
+    list-style: none;
+
+}
+li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+   
+}
+.hh{
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font-size: 30px;
+}
+.input1{
+    display: flex;
+   width: 650px;
+   height: 30px;
+   margin-left: 150px;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+.did{
+    background-color: pink;
+    height: 80px;
+}
+.garry_kasparov{
+    height: 150px;
+    width: 100%;
+    /* display: none; */
+  }
+  .oho{
+    width: 900px;
+    justify-items: center;
+     margin-top: 50px;
+     height: 45px;
+     margin-left: 180px;
+     padding-left: 10px;
+  }
+  .bobby{
+    background-color: black;
+    border-radius: 40px;
+    color: white;
+    height: 45px;
+    width: 100px;
+    cursor: pointer;
+  }
+ 
+  .pp{
+    margin-bottom: 30px;
+  }
+  .con{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    
+   
+   
+  }
+  .lon{
+    width: 100%;
+    height: 500px;
+    display: flex;
+   margin-bottom: 50px;
+   
+  }
+.kor{
+    width: 33.33%;
+    height: 500px;
+  
+}
+.kol{
+    width: 33.33%;
+    
+    height: 500px;
+   
+}
+.kok{
+    width: 33.33%;
+   
+    height: 500px;
+}
+.ppll{
+    justify-content: center;
+    display: flex;
+}
+
+
+.container{
+    margin: 100px;
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    
+    
+    }
+    
+    input{
+    
+    width: 100%;
+    height: 50px;
+    
+    }
+    .c-heading{
+        text-align: center;
+        padding-top: 100px;
+    }
+    
+    
+    .c-heading p{
+    
+ 
+        font-family: "Dancing Script", cursive;
+        font-size: 30px;
+    }
+    
+    
+    #c_form{
+        margin:50px 20px;
+        width: 1000px;
+        background-color: black;
+        color: white;
+        border-radius: 50px;
+        padding: 50px 30px 10px 20px;
+        height: 800px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border-style: double;
+    }
+    
+    
+    .f_h{
+
+text-align: center;
+padding-bottom: 40px;
+font-size: 30px;
+
+
+    }
+    
+    .main_heading {
+        position: absolute;
+        top: 80%;
+        left: 35%;
+        color:black;
+        font-size: 100px;
+         font-family: "Averia Serif Libre", serif;
+         font-weight: 900;
+        text-align: center;
+    
+        
+    }
+    .overlay{
+    position: relative;
+    background-color: black;
+    opacity: 80%;
+    
+    }
+    
+    .map{
+        margin: 100px 100px;
+    }
+    .btn{
+         margin: 10px 20px 10px 120px;
+        width: 100px;
+        height: 50px;
+        background-color: rgb(28, 51, 100);
+        color: white;
+        font-size: 15px;
+        border-radius: 50px;
+        border-color: black;
+        cursor: pointer;
+    }
+.form-control{
+    border-radius: 50px;
+    padding-left: 15px;
+  
+    margin-bottom: 30px;
+}
+.iuiui{
+   margin-bottom: 2px;
+}
